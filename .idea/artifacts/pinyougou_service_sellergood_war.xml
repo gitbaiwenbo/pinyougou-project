@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="pinyougou-service-sellergood:war">
+    <output-path>$PROJECT_DIR$/pinyougou-service-sellergood/target</output-path>
+    <root id="archive" name="pinyougou-service-sellergood-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="pinyougou-service-sellergood:war exploded" />
+    </root>
+  </artifact>
+</component>
